@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 import { tiktok } from "social_media_downloader"
 let handler = async (m, { conn, usedPrefix, command, text, args }) => {
-if (!isUrl(args[0])) throw 'Masukkan Link'
+if (!args[0]) throw 'Masukkan Link'
 try {
 let p = await tiktok(args[0])
     if (!p.link) throw 'Can\'t download video!'
