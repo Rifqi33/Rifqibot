@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 import axios from 'axios'
 let handler = async (m, { conn, usedPrefix, text, args, command }) => {
-if (!isUrl(args[0])) throw 'Masukkan Link'
+if (!args[0]) throw 'Masukkan Link'
 try {
     let listSections = []
 	listSections.push(['No. ' + ++index, [
