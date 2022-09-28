@@ -91,13 +91,13 @@ global.xckey = '7iyNa0qA'
 /*Number*/
 global.nomorbot = '6285295374964'
 global.nomorown = '6285380166282'
-global.namebot = '𝗬𝗧 𝗠𝗮𝘅𝘅𝘆 𝗕𝗼𝘇'
+global.namebot = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 𝗬𝗧 𝗠𝗮𝘅𝘅𝘆 𝗕𝗼𝘇あ⁩ 」'
+global.wm = '                「 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝗬𝗧 𝗠𝗮𝘅𝘅𝘆 𝗕𝗼𝘇'
+global.wm3 = '⫹⫺ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -439,9 +439,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝗬𝗧 𝗠𝗮𝘅𝘅𝘆 𝗕𝗼𝘇 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝗬𝗧 𝗠𝗮𝘅𝘅𝘆 𝗕𝗼𝘇 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩'
+global.author = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩'
 global.multiplier = 10
 
 /*Pesan*/
