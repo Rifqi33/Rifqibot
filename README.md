@@ -237,3 +237,6 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`AmirulDev20`](https://github.com/amiruldev20)
 * [`Rasel Comel`](https://github.com/raselcomel)
 * [`Rominaru`](https://github.com/rominaru)
+
+## '''Author'''
+@AyGemuy
