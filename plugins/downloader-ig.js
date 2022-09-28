@@ -7,7 +7,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 let pp = await conn.profilePictureUrl(who).catch(_ => hwaifu.getRandom())
 let name = await conn.getName(who)
 
-if (!isUrl(args[0])) throw 'Masukkan Link'
+if (!args[0]) throw 'Masukkan Link'
 try {
     let listSections = []
 	listSections.push(['No. ' + ++index, [
