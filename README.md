@@ -59,12 +59,12 @@
 [Kahfi-XD](https://github.com/kahfi-XD) 
  CREATOR
   
-## ```📮 KAHFI-XD STATISTICS```
+## ```📮 Ikyy-XD STATISTICS```
 
 [![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kahfi-XD&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kahfi-XD&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
-  ## ```📮 KAHFI-XD STATUS```
+  ## ```📮 Ikyy STATUS```
   
  <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
