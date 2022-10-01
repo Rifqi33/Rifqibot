@@ -453,7 +453,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.gcwangsaf = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/MaxxyBotz'
+global.saweria = ''
 global.dana = '088228085134'
 global.pulsa = '088228085134'
 global.trakteer = ''
