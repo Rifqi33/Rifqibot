@@ -47,7 +47,7 @@
 - [`WHATSAPP Rifqi OFFICIAL`](https://wa.me/6288228085134?text=Assalamualaikum+Banh+faza+OFFICIAL)
 
 ## ```📮 CREATOR BOT```
- [![Rfqi Official](https://github.com/Fazax22.png?size=200)](https://github.com/Fazax22) 
+ [![Rfqi Official](https://github.com/Rifqi33.png?size=200)](https://github.com/Rifqi33) 
 ---->
 [Rifqi33](https://github.com/Rifqi33)
   AUTHOR
