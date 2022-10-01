@@ -7,7 +7,7 @@
 </p>
 <h1 align="center">🎧 Rifqi-XD</h1>
 <p align="center">
-  <a href="https://github.com/Fazax2"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Rifqi+Bot;My+Name+is+🎧 Faza;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
+  <a href="https://github.com/Rifqi33"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Rifqi+Bot;My+Name+is+🎧 Faza;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <p align="center">
 <a href="https://instagram.com/mrifqifaza"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/6288228085134"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://github.com/Fazax2"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
+<a href="https://github.com/Rifqi33"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
 </p>
 
 ## ```📱 SUPPORT DENGAN CARA DONASI```
@@ -42,14 +42,14 @@
 - [`PULSA`](https://wa.me/6288228085134?text=banh+ini+nomor+nya+kah+088228085134+?)
 
   
-## ```📱 WHATSAPP Fazaxx22 OFFICIAL```
+## ```📱 WHATSAPP Rifqix33 OFFICIAL```
   CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
-- [`WHATSAPP faza OFFICIAL`](https://wa.me/6288228085134?text=Assalamualaikum+Banh+faza+OFFICIAL)
+- [`WHATSAPP Rifqi OFFICIAL`](https://wa.me/6288228085134?text=Assalamualaikum+Banh+faza+OFFICIAL)
 
 ## ```📮 CREATOR BOT```
  [![Rfqi Official](https://github.com/Fazax22.png?size=200)](https://github.com/Fazax22) 
 ---->
-[Fazax22](https://github.com/Fazax22)
+[Rifqi33](https://github.com/Rifqi33)
   AUTHOR
   
 ## ```📮 Faza-XD & Rifqi tzy STATISTICS```
@@ -57,7 +57,7 @@
 [![Fazax22 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faza-XD&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![Rifqi33 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Rifqi-XD&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
-  ## ```📮 FAZA STATUS```
+  ## ```📮 Rifqi STATUS```
   
  <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
@@ -82,7 +82,7 @@
   [Fazax22](https://github.com/Fazax22)
    AUTHOR
   [Rifqi](https://github.com/Rifqi33)
-   AUTHOR
+   AUTHOR & pengembang
 
 <!---
 SEE YOUU HEHEHEHEH :3
